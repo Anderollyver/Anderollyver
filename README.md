@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 Atualmente estou aprendendo...</p>
+<p align="left">📚 Atualmente estou aprendendo... Sou cristão, apaixonado pelas Escrituras e por livros.</p>
 
 ###
 
